@@ -1,5 +1,6 @@
 # 📊 Mobile Store Sales Dashboard
-
+## 📷 Dashboard Preview
+![Dashboard Preview](mobile-store-dashboard.png)
 This project is an interactive **Power BI dashboard** built to analyze mobile store sales data over a one-year period across India. The dashboard provides insights into sales performance, customer behavior, and product trends across multiple dimensions.
 
 ---
